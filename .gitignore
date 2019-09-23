@@ -3,3 +3,8 @@
 /package-lock.json
 /config
 /config/
+/client/node_modules
+/client/node_modules/
+/client/.gitignore
+/client/README.md
+/client/yarn.lock
